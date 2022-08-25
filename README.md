@@ -5,11 +5,11 @@
 <h2 id="sobre">📓 Sobre </h2>
  Projeto desenvolvido conforme proposta do bootcamp ministrado pela Labenu baseado em React JS e Typescript, o objetivo é construir uma aplicação web front-end que mostre os Resultados das Loterias.
  
- ## Informações sobre o projeto e modo de inicia-lo em sua maquina 
+ ## Como executar este projeto em sua maquina 
  
  O projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts Disponíveis
+<h3> Scripts Disponíveis: </h3>
 
 No diretório do projeto, você pode executar:
 
@@ -25,6 +25,7 @@ A página será recarregada se você fizer edições.
 Você também verá erros de lint no console.
 
 Veja a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
+ 
  
  ## 🔗 Link Surge - link para visualização do site
  - Link: http://foregoing-summer.surge.sh
