@@ -5,6 +5,27 @@
 <h2 id="sobre">📓 Sobre </h2>
  Projeto desenvolvido conforme proposta do bootcamp ministrado pela Labenu baseado em React JS e Typescript, o objetivo é construir uma aplicação web front-end que mostre os Resultados das Loterias.
  
+ ## Informações sobre o projeto e modo de inicia-lo em sua maquina 
+ 
+ O projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
+
+## Scripts Disponíveis
+
+No diretório do projeto, você pode executar:
+
+### `npm install`
+
+Para instalar a node_modules para que o projeto funcione sem nenhum erro.
+
+### `npm start`
+
+Executa o aplicativo no modo de desenvolvimento.
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador. 
+A página será recarregada se você fizer edições.
+Você também verá erros de lint no console.
+
+Veja a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
+ 
  ## 🔗 Link Surge - link para visualização do site
  - Link: http://foregoing-summer.surge.sh
 
@@ -44,34 +65,3 @@ Ferramentas usadas na construção do projeto:
 <img alt="imagem do usuario" width="100px" src="https://avatars.githubusercontent.com/u/94623630?s=400&u=949c9707bbd90c2e5774ecae995edf5479f320c6&v=4">
 
 [Voltar para o topo 🔝](#top)
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
