@@ -9,23 +9,19 @@
  
  O projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-<h3> Scripts Disponíveis: </h3>
+## Inicializar projeto
+```bash
+# Install package
+$ npm install
 
-No diretório do projeto, você pode executar:
 
-### `npm install`
+# Executar projeto
+$ npm start
 
-Para instalar a node_modules para que o projeto funcione sem nenhum erro.
-
-### `npm start`
-
-Executa o aplicativo no modo de desenvolvimento.
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador. 
 A página será recarregada se você fizer edições.
 Você também verá erros de lint no console.
-
-Veja a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
- 
+```
  
  ## 🔗 Link Surge - link para visualização do site
  - Link: http://foregoing-summer.surge.sh
